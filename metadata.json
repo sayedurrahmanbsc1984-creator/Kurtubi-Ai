@@ -1,0 +1,6 @@
+{
+  "name": "Kurtubi AI",
+  "description": "একজন বন্ধুত্বপূর্ণ এবং বুদ্ধিমান বাংলাভাষী এআই স্টাডি এজেন্ট। পড়াশোনায় সাহায্য করার জন্য তৈরি করা হয়েছে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Chat", "Educational Assistance"]
+}
